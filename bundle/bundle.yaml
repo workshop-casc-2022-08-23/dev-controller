@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "workshop-casc-2022-08-23-dev-controller"
+description: "CloudBees CI configuration bundle for the workshop-casc-2022-08-23 dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/workshop-casc-2022-08-23/dev-controller"
+parent: "base"
