@@ -1,0 +1,4 @@
+variables:
+- team: workshop-casc-2022-08-23
+- admin-user: cbenge-cloudbees-admin
+- manager-user: cbenge-cloudbees
